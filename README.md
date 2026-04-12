@@ -1,1 +1,1 @@
-# MAS-multi-agent-sistem-
+# MAS-multi-agent-system-
