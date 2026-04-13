@@ -37,6 +37,7 @@ graph TD
     style B fill:#16213e,stroke:#e94560,color:#fff
     style F fill:#00d2ff,stroke:#fff,color:#000
     style G fill:#111,stroke:#333,color:#888
+```
 
 🏗 System Architecture
 The Brain (Orchestrator): mas_orchestrator.py - Manages agent lifecycle, task assignment, and context window limits.
